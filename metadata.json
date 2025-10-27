@@ -1,0 +1,5 @@
+{
+  "name": "AI Research Pipeline",
+  "description": "An application that automates product research using a multi-agent system. An orchestrator breaks down queries, researchers gather data, and an aggregator formats the results into a structured knowledge base.",
+  "requestFramePermissions": []
+}
